@@ -70,6 +70,6 @@
 
 ### 📫 Let's Connect
 - GitHub: [@Joshiii7](https://github.com/Joshiii7)
-- Facebook: [Joshi Angelo Adlawan[(facebook.com/joshi.adlawan)
+- Facebook: [Joshi Angelo Adlawan](facebook.com/joshi.adlawan)
 
 ⭐ Always open to collaboration, learning opportunities, and new challenges.
