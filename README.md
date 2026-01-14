@@ -1,17 +1,64 @@
-# Hi there 👋 My name is Joshi Angelo Adlawan
+## Hi there 👋 I'm Joshi Angelo Adlawan
 
-## Full-stack Developer
-<!--
-**Joshiii7/Joshiii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Web Developer
 
-Here are some ideas to get you started:
+💻 I build modern, responsive, and user-focused web applications  
+🌱 Currently improving my skills in backend, frontend, and system-level programming  
+🚀 Passionate about learning, building, and solving real-world problems through code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+
+**Frontend**
+- HTML5, CSS3, JavaScript
+- Bootstrap, TailwindCSS, SCSS
+- Jquery
+- React
+- Angular
+- Vue.js
+- Vite
+- TypeScript
+
+**Backend**
+- PHP
+- Python
+- Java
+- Laravel
+- Node.js
+- Django
+- Next.js
+
+**Databases**
+- MySQL
+- Sqlite3
+- Firebase
+
+**Tools & Others**
+- Git & GitHub
+- REST APIs
+- VS Code
+- Figma
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe XD
+- Adobe Indesign
+
+---
+
+### 🌐 Portfolio
+🔗 **https://joshiii7.github.io/portfolio/**
+
+---
+
+### 📌 What I'm Currently Doing
+- Improving full-stack development skills  
+- Building personal and client projects  
+- Learning best practices in clean code and system design  
+
+---
+
+### 📫 Let's Connect
+- GitHub: [@Joshiii7](https://github.com/Joshiii7)
+
+⭐ Always open to collaboration, learning opportunities, and new challenges.
