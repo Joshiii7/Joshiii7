@@ -1,6 +1,6 @@
-## Hi there 👋 My name is Joshi Angelo Adlawan
+# Hi there 👋 My name is Joshi Angelo Adlawan
 
-# Full-stack Developer
+## Full-stack Developer
 <!--
 **Joshiii7/Joshiii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
