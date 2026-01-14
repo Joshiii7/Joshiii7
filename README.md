@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 My name is Joshi Angelo Adlawan
 
 <!--
 **Joshiii7/Joshiii7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
