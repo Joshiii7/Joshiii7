@@ -10,39 +10,49 @@
 
 ### 🛠 Tech Stack
 
-**Frontend**
-- HTML5, CSS3, JavaScript
-- Bootstrap, TailwindCSS, SCSS
-- Jquery
-- React
-- Angular
-- Vue.js
-- Vite
-- TypeScript
+<h4>Frontend</h4>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=sass" />
+  <img src="https://skillicons.dev/icons?i=jquery" />
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=angular" />
+  <img src="https://skillicons.dev/icons?i=vue" />
+  <img src="https://skillicons.dev/icons?i=vite" />
+  <img src="https://skillicons.dev/icons?i=ts" />
+</div>
 
-**Backend**
-- PHP
-- Python
-- Java
-- Laravel
-- Node.js
-- Django
-- Next.js
+<h4>Backend</h4>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=php" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=django" />
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</div>
 
-**Databases**
-- MySQL
-- Sqlite3
-- Firebase
+<h4>Databases</h4>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite" />
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</div>
 
-**Tools & Others**
-- Git & GitHub
-- REST APIs
-- VS Code
-- Figma
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe XD
-- Adobe Indesign
+<h4>Tools & Design</h4>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=github" />
+  <img src="https://skillicons.dev/icons?i=vscode" />
+  <img src="https://skillicons.dev/icons?i=figma" />
+  <img src="https://skillicons.dev/icons?i=photoshop" />
+  <img src="https://skillicons.dev/icons?i=illustrator" />
+</div>
 
 ---
 
