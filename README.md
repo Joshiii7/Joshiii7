@@ -1,88 +1,117 @@
-## Hi there 👋 I'm Joshi Angelo Adlawan
+<div align="center">
 
-### Full-Stack Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Joshi%20Angelo%20Adlawan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20%26%20Desktop%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
-💻 I build modern, responsive, and user-focused web applications  
-🌱 Currently improving my skills in backend, frontend, and system-level programming  
-🚀 Passionate about learning, building, and solving real-world problems through code  
+<a href="https://github.com/Joshiii7">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+modern+web+%26+desktop+apps;Laravel+%2B+Angular+%2B+.NET;Clean+code%2C+solid+architecture" alt="Typing SVG" />
+</a>
 
----
-
-### 🛠 Tech Stack
-
-<h4>Frontend</h4>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://skillicons.dev/icons?i=html" />
-  <img src="https://skillicons.dev/icons?i=css" />
-  <img src="https://skillicons.dev/icons?i=js" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" />
-  <img src="https://skillicons.dev/icons?i=tailwind" />
-  <img src="https://skillicons.dev/icons?i=sass" />
-  <img src="https://skillicons.dev/icons?i=jquery" />
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img src="https://skillicons.dev/icons?i=angular" />
-  <img src="https://skillicons.dev/icons?i=vue" />
-  <img src="https://skillicons.dev/icons?i=vite" />
-  <img src="https://skillicons.dev/icons?i=ts" />
 </div>
 
-<h4>Backend</h4>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://skillicons.dev/icons?i=php" />
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=laravel" />
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-  <img src="https://skillicons.dev/icons?i=django" />
-  <img src="https://skillicons.dev/icons?i=nextjs" />
+<br/>
+
+## 👋 About Me
+
+I'm a full-stack developer focused on building reliable, production-ready systems end to end — from Angular/Laravel web apps to .NET desktop tools. I care about clean architecture, maintainable code, and shipping things that actually work in the real world, not just demos.
+
+- 🔭 Currently building inventory, booking, and attendance management systems for real clients
+- 🌱 Deepening my knowledge of system design, testing, and backend architecture
+- 🤝 Open to freelance work and collaboration on full-stack projects
+- 📍 Based in the Philippines
+
+<br/>
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+<div>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
 </div>
 
-<h4>Desktop</h4>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://skillicons.dev/icons?i=cs" />
-  <img src="https://skillicons.dev/icons?i=dotnet" />
+**Backend**
+
+<div>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
 
-<h4>Databases</h4>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://skillicons.dev/icons?i=sqlite" />
-  <img src="https://skillicons.dev/icons?i=firebase" />
+**Desktop**
+
+<div>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 </div>
 
-<h4>Tools & Design</h4>
-<div style="display:flex; flex-wrap:wrap; gap:12px;">
-  <img src="https://skillicons.dev/icons?i=git" />
-  <img src="https://skillicons.dev/icons?i=github" />
-  <img src="https://skillicons.dev/icons?i=vscode" />
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://skillicons.dev/icons?i=photoshop" />
-  <img src="https://skillicons.dev/icons?i=illustrator" />
+**Databases**
+
+<div>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </div>
 
----
+**Tools & Design**
+
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Streak -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Joshiii7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Joshiii7&show_icons=true&hide_border=true&bg_color=1c1917&title_color=0891b2&icon_color=0891b2&text_color=ffffff"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joshiii7&layout=compact&hide_border=true&bg_color=1c1917&title_color=0891b2&text_color=ffffff"/>
 
-### 🌐 Portfolio
-🔗 **https://joshiii7.github.io/portfolio/**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Joshiii7&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="80%"/>
 
----
+</div>
 
-### 📌 What I'm Currently Doing
-- Improving full-stack development skills  
-- Building personal and client projects  
-- Learning best practices in clean code and system design  
+<br/>
 
----
+## 🌐 Portfolio
 
-### 📫 Let's Connect
-- GitHub: [@Joshiii7](https://github.com/Joshiii7)
-- Facebook: [Joshi Angelo Adlawan](https://facebook.com/joshi.adlawan)
+<div align="center">
 
-⭐ Always open to collaboration, learning opportunities, and new challenges.
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://joshiii7.github.io/portfolio/)
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joshiii7)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/joshi.adlawan)
+
+**⭐ Open to freelance work, collaboration, and interesting technical challenges.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1917,100:0891b2&height=100&section=footer" width="100%"/>
