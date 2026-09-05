@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=nextjs" />
 </div>
 
+<h4>Desktop</h4>
+<div style="display:flex; flex-wrap:wrap; gap:12px;">
+  <img src="https://skillicons.dev/icons?i=cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</div>
+
 <h4>Databases</h4>
 <div style="display:flex; flex-wrap:wrap; gap:12px;">
   <img src="https://skillicons.dev/icons?i=mysql" />
