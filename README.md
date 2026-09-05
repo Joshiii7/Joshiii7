@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Joshi%20Angelo%20Adlawan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Web%20%26%20Desktop%20Developer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:1c1917&height=200&section=header&text=Joshi%20Angelo%20Adlawan&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Web%2C%20Desktop%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/Joshiii7">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+modern+web+%26+desktop+apps;Laravel+%2B+Angular+%2B+.NET;Clean+code%2C+solid+architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=0891B2&center=true&vCenter=true&width=600&lines=Building+web%2C+desktop+%26+mobile+apps;Laravel+%2B+Angular+%2B+.NET+%2B+Flutter;Clean+code%2C+solid+architecture" alt="Typing SVG" />
 </a>
 
 </div>
@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm a full-stack developer focused on building reliable, production-ready systems end to end — from Angular/Laravel web apps to .NET desktop tools. I care about clean architecture, maintainable code, and shipping things that actually work in the real world, not just demos.
+I build software across the full stack: websites, web apps, desktop tools, and mobile apps. On the web side that usually means Angular and Laravel, .NET when a client needs a desktop client, and Flutter when the same product has to run on a phone. I care about clean architecture and code that still holds up once real users are relying on it, not just demos.
 
-- Currently building inventory, booking, and attendance management systems for real clients
-- Deepening my knowledge of system design, testing, and backend architecture
-- Open to freelance work and collaboration on full-stack projects
+- Currently building inventory, booking, and attendance management systems for real clients, spanning web, desktop, and mobile depending on what the client needs
+- Comfortable moving between a Laravel API, an Angular frontend, a .NET desktop client, and a Flutter mobile app within the same project
+- Open to freelance work and collaboration across web, desktop, and mobile projects
 - Based in the Philippines
 
 <br/>
@@ -57,6 +57,13 @@ I'm a full-stack developer focused on building reliable, production-ready system
 <div>
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+</div>
+
+**Mobile**
+
+<div>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </div>
 
 **Databases**
